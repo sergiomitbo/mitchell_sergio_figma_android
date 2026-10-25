@@ -16,5 +16,5 @@
     <color name="error">#FFFFB4AB</color>
     <color name="on_error">#FF690005</color>
 
-    <color name="surface_80">#CC0E1513</color>
+    <color name="surface_overlay">#CC0E1513</color>
 </resources>
